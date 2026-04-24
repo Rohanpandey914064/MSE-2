@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "description": "Premium over-ear headphones with 30hr battery and active noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 4499,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
+    "description": "Track steps, heart rate, and sleep with built-in GPS and 7-day battery."
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 3499,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=300&fit=crop",
+    "description": "RGB backlit mechanical keyboard with tactile switches and N-key rollover."
+  },
+  {
+    "id": 4,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1599,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=300&fit=crop",
+    "description": "360° sound, waterproof IPX7, 12-hour playtime with deep bass."
+  },
+  {
+    "id": 5,
+    "name": "Men's Running Shoes",
+    "category": "Footwear",
+    "price": 2199,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop",
+    "description": "Lightweight responsive cushioning for long-distance comfort and speed."
+  },
+  {
+    "id": 6,
+    "name": "Women's Casual Sneakers",
+    "category": "Footwear",
+    "price": 1799,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=400&h=300&fit=crop",
+    "description": "Versatile canvas sneakers with memory foam insole for all-day comfort."
+  },
+  {
+    "id": 7,
+    "name": "Slim Fit Denim Jacket",
+    "category": "Clothing",
+    "price": 1299,
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1601933470096-0e34634ffcde?w=400&h=300&fit=crop",
+    "description": "Classic blue denim jacket with stretch fabric for a modern slim silhouette."
+  },
+  {
+    "id": 8,
+    "name": "Graphic Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 499,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=300&fit=crop",
+    "description": "100% organic cotton with minimalist graphic prints, available in 8 colors."
+  },
+  {
+    "id": 9,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Kitchen",
+    "price": 699,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=300&fit=crop",
+    "description": "Double-wall insulated 750ml bottle keeps cold 24hrs and hot 12hrs."
+  },
+  {
+    "id": 10,
+    "name": "Non-Stick Cookware Set",
+    "category": "Kitchen",
+    "price": 3299,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "description": "5-piece granite-coated cookware set, PFOA-free, oven safe up to 220°C."
+  },
+  {
+    "id": 11,
+    "name": "Yoga Mat Premium",
+    "category": "Sports",
+    "price": 899,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400&h=300&fit=crop",
+    "description": "6mm thick eco-friendly TPE mat with alignment lines and carrying strap."
+  },
+  {
+    "id": 12,
+    "name": "Adjustable Dumbbell Set",
+    "category": "Sports",
+    "price": 5999,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=400&h=300&fit=crop",
+    "description": "5–52.5 lbs adjustable dumbbells replace 15 sets, quick-select dial system."
+  },
+  {
+    "id": 13,
+    "name": "Leather Crossbody Bag",
+    "category": "Accessories",
+    "price": 1899,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=300&fit=crop",
+    "description": "Genuine leather bag with adjustable strap, multiple pockets and RFID lining."
+  },
+  {
+    "id": 14,
+    "name": "Polarized Sunglasses",
+    "category": "Accessories",
+    "price": 1199,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400&h=300&fit=crop",
+    "description": "UV400 polarized lenses with lightweight TR90 frame, unisex design."
+  },
+  {
+    "id": 15,
+    "name": "Scented Soy Candle Set",
+    "category": "Home",
+    "price": 799,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1602874801006-1a1d82f5e1e5?w=400&h=300&fit=crop",
+    "description": "Set of 3 hand-poured soy candles in lavender, vanilla, and cedarwood scents."
+  },
+  {
+    "id": 16,
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": 7499,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1519638831568-d9897f54ed69?w=400&h=300&fit=crop",
+    "description": "Waterproof 4K/60fps camera with image stabilization and voice control."
+  }
+]
