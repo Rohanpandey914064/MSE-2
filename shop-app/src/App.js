@@ -44,7 +44,7 @@ export default function App() {
   }
 
   function removeFromCart(id) {
-    setCartItems(prev => prev.filter(i => i.id === id));
+    setCartItems(prev => prev.filter(i => i.id !== id));
   }
 
   function updateQty(id, qty) {
