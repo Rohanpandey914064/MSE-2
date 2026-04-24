@@ -52,7 +52,7 @@ export default function App() {
     setCartItems(prev => prev.map(i => i.id === id ? { ...i, qty } : i));
   }
 
-  const cartCount = cartItems.reduce((sum, i) => sum + i.count, 0);
+  const cartCount = cartItems.reduce((sum, i) => sum + i.qty, 0);
   const cartItemIds = new Set(cartItems.map(i => i.productId));
 
   return (
